@@ -1,0 +1,441 @@
+Coldplay,Oasis
+ :        no of co-occurance:59
+
+Nirvana,Coldplay
+ :        no of co-occurance:59
+
+Nirvana,Red Hot Chili Peppers
+ :        no of co-occurance:62
+
+Nirvana,Muse
+ :        no of co-occurance:85
+
+Nirvana,Radiohead
+ :        no of co-occurance:74
+
+The Beatles,Nirvana
+ :        no of co-occurance:90
+
+The Beatles,Pink Floyd
+ :        no of co-occurance:76
+
+Led Zeppelin,The Beatles
+ :        no of co-occurance:63
+
+Led Zeppelin,Pink Floyd
+ :        no of co-occurance:58
+
+The Beatles,Arctic Monkeys
+ :        no of co-occurance:86
+
+The Beatles,Coldplay
+ :        no of co-occurance:86
+
+The Beatles,Muse
+ :        no of co-occurance:107
+
+The Beatles,Pink Floyd
+ :        no of co-occurance:76
+
+The Beatles,Coldplay
+ :        no of co-occurance:86
+
+The Beatles,Radiohead
+ :        no of co-occurance:113
+
+The Beatles,Muse
+ :        no of co-occurance:107
+
+The Beatles,Radiohead
+ :        no of co-occurance:113
+
+Nirvana,Muse
+ :        no of co-occurance:85
+
+Nirvana,Radiohead
+ :        no of co-occurance:74
+
+The Beatles,Nirvana
+ :        no of co-occurance:90
+
+Red Hot Chili Peppers,Coldplay
+ :        no of co-occurance:64
+
+Nirvana,Coldplay
+ :        no of co-occurance:59
+
+Kings of Leon,Coldplay
+ :        no of co-occurance:67
+
+Coldplay,The Killers
+ :        no of co-occurance:85
+
+Arctic Monkeys,Coldplay
+ :        no of co-occurance:84
+
+The Beatles,Coldplay
+ :        no of co-occurance:86
+
+Coldplay,The Killers
+ :        no of co-occurance:85
+
+Arctic Monkeys,Coldplay
+ :        no of co-occurance:84
+
+Coldplay,The Killers
+ :        no of co-occurance:85
+
+Muse,Coldplay
+ :        no of co-occurance:113
+
+Arctic Monkeys,Coldplay
+ :        no of co-occurance:84
+
+Radiohead,Coldplay
+ :        no of co-occurance:92
+
+The Beatles,Coldplay
+ :        no of co-occurance:86
+
+Arctic Monkeys,Coldplay
+ :        no of co-occurance:84
+
+Coldplay,The Killers
+ :        no of co-occurance:85
+
+The Beatles,Coldplay
+ :        no of co-occurance:86
+
+Coldplay,The Killers
+ :        no of co-occurance:85
+
+Muse,Coldplay
+ :        no of co-occurance:113
+
+Arctic Monkeys,MGMT
+ :        no of co-occurance:56
+
+Arctic Monkeys,Oasis
+ :        no of co-occurance:61
+
+Arctic Monkeys,The Kooks
+ :        no of co-occurance:53
+
+Arctic Monkeys,Franz Ferdinand
+ :        no of co-occurance:54
+
+Arctic Monkeys,Oasis
+ :        no of co-occurance:61
+
+Kings of Leon,Arctic Monkeys
+ :        no of co-occurance:57
+
+Kings of Leon,Coldplay
+ :        no of co-occurance:67
+
+Kings of Leon,Coldplay
+ :        no of co-occurance:67
+
+Arctic Monkeys,MGMT
+ :        no of co-occurance:56
+
+Arctic Monkeys,The Kooks
+ :        no of co-occurance:53
+
+Arctic Monkeys,The Strokes
+ :        no of co-occurance:69
+
+Arctic Monkeys,Oasis
+ :        no of co-occurance:61
+
+Arctic Monkeys,The Kooks
+ :        no of co-occurance:53
+
+Arctic Monkeys,The Strokes
+ :        no of co-occurance:69
+
+Arctic Monkeys,The Killers
+ :        no of co-occurance:76
+
+Radiohead,Arctic Monkeys
+ :        no of co-occurance:88
+
+Arctic Monkeys,Coldplay
+ :        no of co-occurance:84
+
+Radiohead,Arctic Monkeys
+ :        no of co-occurance:88
+
+Kings of Leon,Arctic Monkeys
+ :        no of co-occurance:57
+
+Arctic Monkeys,Oasis
+ :        no of co-occurance:61
+
+Radiohead,Arctic Monkeys
+ :        no of co-occurance:88
+
+Arctic Monkeys,Coldplay
+ :        no of co-occurance:84
+
+Arctic Monkeys,The Killers
+ :        no of co-occurance:76
+
+Radiohead,Arctic Monkeys
+ :        no of co-occurance:88
+
+Radiohead,Arctic Monkeys
+ :        no of co-occurance:88
+
+Arctic Monkeys,Muse
+ :        no of co-occurance:113
+
+Kings of Leon,The Killers
+ :        no of co-occurance:52
+
+Placebo,The Killers
+ :        no of co-occurance:51
+
+Oasis,The Killers
+ :        no of co-occurance:57
+
+Radiohead,The Killers
+ :        no of co-occurance:70
+
+The Beatles,The Killers
+ :        no of co-occurance:70
+
+Oasis,The Killers
+ :        no of co-occurance:57
+
+Red Hot Chili Peppers,The Killers
+ :        no of co-occurance:51
+
+Kings of Leon,The Killers
+ :        no of co-occurance:52
+
+Oasis,The Killers
+ :        no of co-occurance:57
+
+Radiohead,The Killers
+ :        no of co-occurance:70
+
+Oasis,The Killers
+ :        no of co-occurance:57
+
+Arctic Monkeys,The Killers
+ :        no of co-occurance:76
+
+The Beatles,The Killers
+ :        no of co-occurance:70
+
+Radiohead,The Killers
+ :        no of co-occurance:70
+
+Muse,The Killers
+ :        no of co-occurance:100
+
+Radiohead,The Killers
+ :        no of co-occurance:70
+
+Muse,The Killers
+ :        no of co-occurance:100
+
+Snow Patrol,Muse
+ :        no of co-occurance:51
+
+Britney Spears,Lady Gaga
+ :        no of co-occurance:62
+
+Nirvana,Pearl Jam
+ :        no of co-occurance:51
+
+Pearl Jam,Radiohead
+ :        no of co-occurance:51
+
+Radiohead,The Cure
+ :        no of co-occurance:61
+
+Radiohead,The Smiths
+ :        no of co-occurance:68
+
+Radiohead,The Killers
+ :        no of co-occurance:70
+
+Radiohead,The Smiths
+ :        no of co-occurance:68
+
+Radiohead,Pink Floyd
+ :        no of co-occurance:70
+
+Radiohead,The Smiths
+ :        no of co-occurance:68
+
+Radiohead,Arctic Monkeys
+ :        no of co-occurance:88
+
+Radiohead,The Killers
+ :        no of co-occurance:70
+
+Radiohead,The Killers
+ :        no of co-occurance:70
+
+Radiohead,Coldplay
+ :        no of co-occurance:92
+
+Pearl Jam,Radiohead
+ :        no of co-occurance:51
+
+Radiohead,Oasis
+ :        no of co-occurance:61
+
+Radiohead,The Killers
+ :        no of co-occurance:70
+
+Radiohead,Arctic Monkeys
+ :        no of co-occurance:88
+
+Radiohead,The Killers
+ :        no of co-occurance:70
+
+Radiohead,Coldplay
+ :        no of co-occurance:92
+
+Radiohead,Muse
+ :        no of co-occurance:128
+
+Radiohead,Pink Floyd
+ :        no of co-occurance:70
+
+Radiohead,Red Hot Chili Peppers
+ :        no of co-occurance:53
+
+Radiohead,The Killers
+ :        no of co-occurance:70
+
+Radiohead,The Smiths
+ :        no of co-occurance:68
+
+Radiohead,Muse
+ :        no of co-occurance:128
+
+The Beatles,Radiohead
+ :        no of co-occurance:113
+
+The Cure,Muse
+ :        no of co-occurance:53
+
+Radiohead,The Cure
+ :        no of co-occurance:61
+
+System of a Down,Metallica
+ :        no of co-occurance:53
+
+Muse,System of a Down
+ :        no of co-occurance:61
+
+Muse,The Killers
+ :        no of co-occurance:100
+
+The Beatles,Muse
+ :        no of co-occurance:107
+
+Muse,Coldplay
+ :        no of co-occurance:113
+
+Radiohead,Muse
+ :        no of co-occurance:128
+
+Muse,Placebo
+ :        no of co-occurance:98
+
+The Beatles,Muse
+ :        no of co-occurance:107
+
+Kings of Leon,Muse
+ :        no of co-occurance:67
+
+Muse,Placebo
+ :        no of co-occurance:98
+
+Metallica,Muse
+ :        no of co-occurance:60
+
+30 Seconds to Mars,Muse
+ :        no of co-occurance:55
+
+Lady Gaga,Lily Allen
+ :        no of co-occurance:51
+
+Britney Spears,Lady Gaga
+ :        no of co-occurance:62
+
+The Beatles,Lady Gaga
+ :        no of co-occurance:61
+
+Lady Gaga,Paramore
+ :        no of co-occurance:66
+
+Muse,Lady Gaga
+ :        no of co-occurance:73
+
+The Beatles,Lady Gaga
+ :        no of co-occurance:61
+
+Muse,Linkin Park
+ :        no of co-occurance:54
+
+Paramore,Muse
+ :        no of co-occurance:75
+
+The Strokes,The Killers
+ :        no of co-occurance:53
+
+Radiohead,The Strokes
+ :        no of co-occurance:59
+
+The Strokes,The Killers
+ :        no of co-occurance:53
+
+Muse,The Strokes
+ :        no of co-occurance:63
+
+Muse,The Strokes
+ :        no of co-occurance:63
+
+Green Day,Muse
+ :        no of co-occurance:63
+
+Lady Gaga,Rihanna
+ :        no of co-occurance:67
+
+The Beatles,Queen
+ :        no of co-occurance:61
+
+Death Cab for Cutie,The Beatles
+ :        no of co-occurance:56
+
+Death Cab for Cutie,Radiohead
+ :        no of co-occurance:57
+
+Death Cab for Cutie,Muse
+ :        no of co-occurance:54
+
+Death Cab for Cutie,The Beatles
+ :        no of co-occurance:56
+
+Death Cab for Cutie,Radiohead
+ :        no of co-occurance:57
+
+The Beatles,The Rolling Stones
+ :        no of co-occurance:61
+
+David Bowie,The Beatles
+ :        no of co-occurance:54
+
+David Bowie,Radiohead
+ :        no of co-occurance:58
+
+Ke$ha,Lady Gaga
+ :        no of co-occurance:53
+
